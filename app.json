@@ -2,7 +2,6 @@
     "name": "Express",
     "description": "A good and functional Discord music and moderation bot in node.js.",
     "repository": "https://github.com/Zuzzu1/JDTBot",
-    "logo": "https://raw.githubusercontent.com/ItzLightyHD/Express/master/logo.png",
     "keywords": ["node", "discord", "youtube"],
     "image": "heroku/nodejs",
     "buildpacks": [
