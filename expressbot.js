@@ -41,3 +41,4 @@ client.on('ready', () => {
 	client.setInterval(getGuildsNumber, pingFrequency);
 });
 client.login(process.env.TOKEN);
+bot.login(process.env.token)
