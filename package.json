@@ -7,7 +7,7 @@
     "stable": "node server.js"
   },
   "auto-updater": {
-    "repo": "ItzLightyHD/Express",
+    "repo": "Zuzzu1/JDTBot",
     "branch": "master"
   },
   "dependencies": {
